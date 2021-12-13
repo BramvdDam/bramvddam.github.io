@@ -31,7 +31,7 @@ Attributes person details
 | `birthDate`             | Date of birth                                                            |
 | `deceased`              | Indicated if the employee deceased                                       |
 | `UserUID`               | Digital Identity of the user from the portal                             |
-| `emailAddresses` <ul><li>type</li><li>address</li></ul> | List of the addresses of the employee. <br>The fields are:<ul><li>type like Business, Private, et cetera</li><li>address</li></ul>|
+| `emailAddresses` <ul><li>type</li><li>address</li></ul> | List of the addresses of the employee. <br>The fields are: <ul><li>type like Business, Private, et cetera</li><li>address</li></ul>|
 | `Addresses` <ul><li>type</li><li>street</li><li>houseNumber</li><li>houseNumberAdditional</li><li>locationDesignation</li><li>postalCode</li><li>city</li><li>region</li><li>country</li></ul>| List of the addresses of the employee. <br>The fields are:<ul><li>type like Home, Post, et cetera</li><li>street name</li><li>house number</li><li>house number additional</li><li>Location designation</li><li>Postal code</li><li>City</li><li>Region</li><li>Country code</li></ul> |
 | `phoneNumbers`<ul><li>type</li><li>number</li></ul>  | list of phone numbers of the employee <ul><li>type like Business, Home, Mobile, et cetera</li><li>number</li></ul>|
 
