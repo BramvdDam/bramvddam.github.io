@@ -1,7 +1,6 @@
 ## Learning Concepts
-[Pagination of the result set](#pagination)
-
-[Delete a record](#delete)
+* [Pagination of the result set](#pagination)
+* [Delete a record](#delete)
 
 ### Pagination of the result set {#pagination}
 To reduce the load of an endpoint each endpoint supports paging. If the results of an endpoint contain more than 500 records, the results set will end with a nextLink tag. The nextLink indicates that there are more pages to load. If there is no nextLink at the end of the page, it means that it’s the last page of the result set. The default value is 500 records, but it is possible to use less than that.
