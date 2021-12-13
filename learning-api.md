@@ -6,3 +6,5 @@ The Learning API is intended for Learning Management systems and allows you to:
 This API is expected to be improved with:
 * UserID for Single Sign-On as part of the employee endpoint
 * Extensions to add a custom field to the employee endpoint
+
+[Learning domain model](https://bramvddam.github.io/learning-domain-model)
