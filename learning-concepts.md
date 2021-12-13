@@ -1,5 +1,6 @@
 ## Learning Concepts
 [Pagination of the result set](#pagination)
+
 [Delete a record](#delete)
 
 ### Pagination of the result set {#pagination}
