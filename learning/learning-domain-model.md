@@ -1,3 +1,4 @@
 ## Learning domain model
-![](learning_domain.png)
+![](/images/learning_domain.png)
+
 

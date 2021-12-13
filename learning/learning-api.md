@@ -7,5 +7,7 @@ This API is expected to be improved with:
 * UserID for Single Sign-On as part of the employee endpoint
 * Extensions to add a custom field to the employee endpoint
 
-[Learning domain model](https://bramvddam.github.io/learning-domain-model)  
-[Learning Concepts](https://bramvddam.github.io/learning-concepts)  
+[Learning Domain model](https://bramvddam.github.io/learning/learning-domain-model)  
+[Learning Concepts](https://bramvddam.github.io/learning/learning-concepts)  
+[Learning Employees](https://bramvddam.github.io/learning/learning-employees)  
+ 
