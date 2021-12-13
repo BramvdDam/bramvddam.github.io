@@ -8,7 +8,7 @@ The object employee contains all personal and employment details of an employee.
 
 ### Object attributes {#objects}
 An employee is a person with one or more employments.  
-![](learning_attributes.png)  
+![](/images/learning_attributes.png)  
   
 Attributes person details  
 | **Attribute**           | **Description**|
