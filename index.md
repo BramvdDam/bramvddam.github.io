@@ -1,5 +1,5 @@
 ## Visma|YouServe API documentation
-[bramvddam.github.io/learning-api]LearningAPI
+[Learning API](https://bramvddam.github.io/learning-api)
 
 
 
