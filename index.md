@@ -1,3 +1,3 @@
 ## API documentation
-[Learning API](https://bramvddam.github.io/learning-api)
+[Learning API](https://bramvddam.github.io/learning/learning-api)
 
