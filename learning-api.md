@@ -8,3 +8,4 @@ This API is expected to be improved with:
 * Extensions to add a custom field to the employee endpoint
 
 [Learning domain model](https://bramvddam.github.io/learning-domain-model)
+[Learning Concepts](https://bramvddam.github.io/learning-concepts)
